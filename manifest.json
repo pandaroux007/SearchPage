@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "SearchPage",
+  "version": "1.0.0",
+  "description": "Rechercher des mots sur une page web",
+  "icons": {
+    "": "icons/logo.svg"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/logo.svg",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "activeTab"
+  ]
+}
