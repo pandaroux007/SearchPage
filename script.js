@@ -46,10 +46,3 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
-
-// Écoute des messages du content script
-browser.runtime.onMessage.addListener(function(request, sender, sendResponse) {
-    if (request.action === "updatePopup") {
-        // Mettre à jour l'interface de la popup si nécessaire
-    }
-});
