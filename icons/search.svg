@@ -1,22 +1,42 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
-<desc>Created with Fabric.js 5.2.4</desc>
-<defs>
-</defs>
-<g transform="matrix(1 0 0 1 540 540)" id="79560434-76c2-4ae2-81eb-17a32c1474fb"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
-</g>
-<g transform="matrix(1 0 0 1 540 540)" id="6ad40d75-cd5c-4c55-8f7c-e0dbf3023ea4"  >
-</g>
-<g transform="matrix(45 0 0 45 540 540)"  >
-<g style=""   >
-		<g transform="matrix(0.75 0 0 0.75 0 0)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12, -12)" d="M 0 0 L 24 0 L 24 24 L 0 24 z" stroke-linecap="round" />
-</g>
-		<g transform="matrix(0.75 0 0 0.75 -0.19 -0.19)"  >
-<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-11.74, -11.75)" d="M 15.5 14 L 14.71 14 L 14.430000000000001 13.73 C 15.41 12.59 16 11.11 16 9.5 C 16 5.91 13.09 3 9.5 3 C 5.91 3 3 5.91 3 9.5 C 3 13.09 5.91 16 9.5 16 C 11.11 16 12.59 15.41 13.73 14.43 L 14 14.709999999999999 L 14 15.5 L 19 20.490000000000002 L 20.49 19 L 15.499999999999998 14 z M 9.5 14 C 7.01 14 5 11.99 5 9.5 C 5 7.01 7.01 5 9.5 5 C 11.99 5 14 7.01 14 9.5 C 14 11.99 11.99 14 9.5 14 z" stroke-linecap="round" />
-</g>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="18px"
+   height="18px"
+   viewBox="0 0 18 18"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="search.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="32.684047"
+     inkscape:cx="7.6795876"
+     inkscape:cy="9.9436891"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="surface1"
+     transform="matrix(1.7384411,0,0,1.7384411,-6.4048968,-6.3947113)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 10.972656,10.125 h -0.445312 l -0.15625,-0.152344 c 0.550781,-0.644531 0.882812,-1.476562 0.882812,-2.378906 0,-2.019531 -1.636718,-3.65625 -3.65625,-3.65625 -2.019531,0 -3.65625,1.636719 -3.65625,3.65625 0,2.015625 1.636719,3.65625 3.65625,3.65625 0.90625,0 1.738282,-0.332031 2.378906,-0.886719 l 0.152344,0.160157 v 0.445312 l 2.8125,2.804688 0.839844,-0.835938 z m -3.375,0 c -1.402344,0 -2.53125,-1.132812 -2.53125,-2.53125 0,-1.402344 1.128906,-2.53125 2.53125,-2.53125 1.402344,0 2.53125,1.128906 2.53125,2.53125 0,1.398438 -1.128906,2.53125 -2.53125,2.53125 z m 0,0"
+       id="path2" />
+  </g>
 </svg>

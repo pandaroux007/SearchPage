@@ -1,16 +1,28 @@
 {
   "manifest_version": 2,
   "name": "SearchPage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Rechercher des mots sur une page web",
+  "homepage_url": "https://github.com/pandaroux007/SearchPage",
   "icons": {
-    "": "icons/logo.svg"
+    "16": "icons/logo.svg",
+    "32": "icons/logo.svg",
+    "48": "icons/logo.svg",
+    "96": "icons/logo.svg"
   },
 
   "browser_action": {
     "default_icon": "icons/logo.svg",
+    "default_title": "Rechercher dans cette page...",
     "default_popup": "popup.html"
   },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
 
   "permissions": [
     "activeTab"

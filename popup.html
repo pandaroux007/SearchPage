@@ -2,17 +2,28 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Recherche sur la page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recherche sur cette page</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" type="image/svg" href="icons/logo.svg">
 </head>
 <body>
-    <div class="search-container">
-        <input type="text" id="searchInput" placeholder="Rechercher sur cette page...">
-        <div class="search-icon">
-            <img src="icons/search.svg" alt="search" title="Rechercher">
+    <!--HTML de la popup-->
+    <main class="popup">
+        <!--Icone pour annuler la recherche-->
+        <div class="icone-annuler-recherche">
+            <img src="icons/fileback.svg" alt="cancel" title="Annuler la recherche">
         </div>
-    </div>
+        <!-- <p>&nbsp</p> -->
+        <!--Barre de recherche et son icone-->
+        <div class="search-container" title="Entrez un terme ici">
+            <input type="text" id="barre-de-recherche" placeholder="Rechercher sur cette page..." autocomplete="on" autofocus>
+            <div class="icone-loupe-recherche">
+                <img src="icons/search.svg" alt="search" title="Rechercher" width="18px" height="18px">
+            </div>
+        </div>
+    </main>
+    <!--On execute le code javascript-->
     <script src="script.js"></script>
 </body>
 </html>
-
